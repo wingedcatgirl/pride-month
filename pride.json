@@ -1,0 +1,16 @@
+{
+	"id": "pride",
+	"name": "Pride Month",
+	"display_name": "Pride",
+	"author": ["wingedcatgirl"],
+	"description": "Bans Straights during Pride Month",
+	"prefix": "pride",
+	"main_file": "pride.lua",
+	"priority": -1,
+	"badge_colour": "CA7CA7",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.1",
+	"dependencies": [
+			"Steamodded(>=1.0.0~BETA-0827)"
+	]
+}
